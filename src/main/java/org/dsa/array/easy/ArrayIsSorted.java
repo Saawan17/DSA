@@ -1,6 +1,5 @@
-package org.dsa.array;
+package org.dsa.array.easy;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ArrayIsSorted {
