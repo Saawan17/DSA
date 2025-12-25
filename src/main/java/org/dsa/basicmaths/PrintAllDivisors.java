@@ -17,7 +17,7 @@ public class PrintAllDivisors {
 //            }
 //        }
 //        System.out.println(arr);
-        for (int i = 1; i <= Math.sqrt(n); i++) {
+        for (int i = 1; i * i <= n; i++) {
             if (n % i == 0) {
                 arr.add(i);
                 if (n / i != i) {
