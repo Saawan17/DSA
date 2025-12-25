@@ -1,4 +1,4 @@
-package org.dsa.array.easy;
+package org.dsa.array.medium;
 
 import java.util.Scanner;
 

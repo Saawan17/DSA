@@ -1,6 +1,4 @@
-package org.dsa.array.easy;
-
-import java.util.*;
+package org.dsa.array.medium;
 
 // Class containing the sliding window algorithm
 class Solution {
