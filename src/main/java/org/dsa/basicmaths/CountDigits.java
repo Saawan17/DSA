@@ -6,6 +6,7 @@ public class CountDigits {
         int count = 0;
 
         System.out.println(countDigits(n));
+        System.out.println(countDigitsBrute(n));
     }
 
     // T.C = 0(1)
