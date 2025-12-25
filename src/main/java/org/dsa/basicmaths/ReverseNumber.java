@@ -1,5 +1,8 @@
 package org.dsa.basicmaths;
 
+
+// T.C =  O(log10N + 1)
+// S.C = 0(1)
 public class ReverseNumber {
     public static void main(String[] args) {
         int n = 12345;

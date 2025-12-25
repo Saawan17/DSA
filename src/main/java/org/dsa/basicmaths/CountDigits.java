@@ -31,8 +31,7 @@ public class CountDigits {
         return (int) Math.log10(n) + 1;
     }
 
-    // T.C =  O(log10N + 1)
-    // S.C = 0(1)
+
     static int countDigitsBrute(int n) {
         int cnt = 0;
         while (n > 0) {
