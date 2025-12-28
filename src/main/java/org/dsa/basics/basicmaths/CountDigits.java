@@ -1,4 +1,4 @@
-package org.dsa.basicmaths;
+package org.dsa.basics.basicrecursion.basicmaths;
 
 public class CountDigits {
     public static void main(String[] args) {

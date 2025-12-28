@@ -1,4 +1,4 @@
-package org.dsa.basicmaths;
+package org.dsa.basics.basicrecursion.basicmaths;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package org.dsa.basicrecursion;
+package org.dsa.basics.basicrecursion;
 
 public class PrintNameNTimes {
     public static void fun(int n, String name){

@@ -1,4 +1,4 @@
-package org.dsa.basicrecursion;
+package org.dsa.basics.basicrecursion;
 
 public class Factorial {
     static int fact(int n, int factValue) {

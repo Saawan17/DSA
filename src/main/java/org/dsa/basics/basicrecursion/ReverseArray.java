@@ -1,4 +1,4 @@
-package org.dsa.basicrecursion;
+package org.dsa.basics.basicrecursion;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package org.dsa.basicmaths;
+package org.dsa.basics.basicrecursion.basicmaths;
 
 
 // T.C =  O(log10N + 1)

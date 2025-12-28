@@ -1,4 +1,4 @@
-package org.dsa.basicrecursion;
+package org.dsa.basics.basicrecursion;
 
 public class Print1ToN {
     static void fun(int current, int n) {

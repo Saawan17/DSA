@@ -1,4 +1,4 @@
-package org.dsa.basicmaths;
+package org.dsa.basics.basicrecursion.basicmaths;
 
 public class Armstrong {
     public static void main(String[] args) {
